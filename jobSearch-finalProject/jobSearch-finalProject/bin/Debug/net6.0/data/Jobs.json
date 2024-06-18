@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "jobName": "Software Engineer",
+    "profession": "Software_Development",
+    "hours": 40,
+    "area": "Technology Park",
+    "requirements": "Bachelor's Degree in Computer Science",
+    "fromHome": false
+  },
+  {
+    "id": 2,
+    "jobName": "Accountant",
+    "profession": "Accounting",
+    "hours": 35,
+    "area": "Financial District",
+    "requirements": "CPA Certification",
+    "fromHome": true
+  },
+  {
+    "id": 3,
+    "jobName": "Architect",
+    "profession": "Architecture",
+    "hours": 45,
+    "area": "Downtown Design Center",
+    "requirements": "Master's Degree in Architecture",
+    "fromHome": false
+  },
+  {
+    "id": 4,
+    "jobName": "Social Worker",
+    "profession": "Social_Work",
+    "hours": 37,
+    "area": "Community Services",
+    "requirements": "Licensed Social Worker",
+    "fromHome": false
+  },
+  {
+    "id": 5,
+    "jobName": "Graphic Designer",
+    "profession": "Graphics",
+    "hours": 30,
+    "area": "Creative Studio",
+    "requirements": "Proficient in Adobe Creative Suite",
+    "fromHome": true
+  },
+  {
+    "id": 6,
+    "jobName": "Administrative Assistant",
+    "profession": "Secretariat",
+    "hours": 38,
+    "area": "Corporate Offices",
+    "requirements": "Experience with Office Management",
+    "fromHome": false
+  },
+  {
+    "id": 7,
+    "jobName": "Frontend Developer",
+    "profession": "Software_Development",
+    "hours": 40,
+    "area": "Tech Hub",
+    "requirements": "Strong Knowledge of HTML, CSS, JavaScript",
+    "fromHome": true
+  }
+]
+
+
+  
